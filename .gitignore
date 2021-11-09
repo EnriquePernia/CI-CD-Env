@@ -1,0 +1,6 @@
+# Data
+jenkins_home/*
+
+# MACOS
+*DS_STORE
+*.txt
